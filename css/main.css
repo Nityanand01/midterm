@@ -1,0 +1,84 @@
+/* name: mityanand pandey student id : 8911829*/
+body {
+    font: normal normal normal 12px/1.5 Verdana, Arial, Helvetica, sans-serif;
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.structural {
+    margin: 10px;
+    padding: 10px;
+}
+
+h1 {
+    color: darkblue;
+    font-size: 10px;
+}
+
+h2 {
+    color: darkblue;
+    font-size: 20px;
+}
+
+main {
+    height: 70vh;
+}
+
+figure img {
+    width: 90%;
+    height: 80%;
+    border: 5px blueviolet;
+}
+
+figure {
+    width: 45%;
+    height: 60%;
+    padding: 10px;
+    background-color: violet;
+    margin: auto;
+}
+
+#Dog1 {
+    float: left;
+}
+
+#Dog2 {
+    float: right;
+}
+
+section {
+    clear: both;
+}
+
+figcaption {
+    font-weight: bold;
+    font-size: 10px;
+    color: darkblue;
+    padding: 20px;
+}
+
+a {
+    color: violet;
+}
+
+a:hover{
+    color: black;
+}
+
+ul {
+    list-style: circle;
+    line-height: 2;
+}
+
+header {
+    background-color: blueviolet;
+}
+
+footer {
+    background-color: blueviolet;
+    height: 5vh;
+    width: 100%;
+    
+}
+
